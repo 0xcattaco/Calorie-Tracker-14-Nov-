@@ -1,0 +1,7 @@
+{
+  "name": "Cal AI Food Tracker - Backup 1",
+  "description": "A modern food tracking application that uses AI to analyze meals from photos, providing detailed nutritional information to help you achieve your health goals.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
